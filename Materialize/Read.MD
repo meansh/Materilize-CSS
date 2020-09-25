@@ -1,0 +1,1 @@
+Clone and play the index.html file in browser to see the beautiful web page designed with Materialize CSS.
